@@ -2,4 +2,5 @@
 BT -33 practical session
 #hello cu BT33
 # gvgvygy
-#jvwbojcbo
+
+# bob HELLO
